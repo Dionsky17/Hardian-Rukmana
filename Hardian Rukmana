@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hardian Indra Rukmana - Fotografer, Penulis & Digital Branding Profesional</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            text-align: center;
+        }
+        header {
+            background: #333;
+            color: white;
+            padding: 20px;
+            font-size: 24px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        img {
+            width: 100%;
+            border-radius: 10px;
+        }
+        .button {
+            display: inline-block;
+            margin-top: 10px;
+            padding: 10px 20px;
+            background: #333;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        footer {
+            margin-top: 20px;
+            padding: 10px;
+            background: #333;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        Hardian Indra Rukmana - Fotografer & Penulis Profesional
+    </header>
+    <div class="container">
+        <img src="https://source.unsplash.com/800x400/?photography" alt="Fotografi Profesional">
+        <h2>Tentang Saya</h2>
+        <p>Saya adalah fotografer profesional spesialis personal branding serta seorang penulis yang telah menerbitkan buku 'Bidara Dedaunan' dan 'Nirmala'. Selain itu, saya juga ahli dalam sosial media, digital branding, dan iklan digital.</p>
+        <a href="#portfolio" class="button">Lihat Portofolio</a>
+    </div>
+    <div class="container" id="portfolio">
+        <h2>Portofolio</h2>
+        <div>
+            <img src="https://source.unsplash.com/800x400/?personal branding" alt="Personal Branding">
+            <p>Membuat strategi visual yang membangun dan memperkuat citra seseorang/kandidat secara maksimal.</p>
+        </div>
+        <div>
+            <img src="https://source.unsplash.com/800x400/?wedding" alt="Wedding">
+            <p>Memberikan visual yang menangkap emosi dan cerita yang kuat.</p>
+        </div>
+        <div>
+            <img src="https://source.unsplash.com/800x400/?event-corporate" alt="Event Corporate">
+            <p>Membuat visual yang sesuai dengan brand/klien dengan storytelling.</p>
+        </div>
+    </div>
+    <div class="container">
+        <h2>Kontak</h2>
+        <p>Email: hardianindra@example.com</p>
+        <p>Instagram: <a href="https://www.instagram.com/hardianlucky" target="_blank">@hardianlucky</a></p>
+    </div>
+    <footer>
+        &copy; 2025 Hardian Indra Rukmana | Fotografer, Penulis & Digital Branding Profesional
+    </footer>
+</body>
+</html>
